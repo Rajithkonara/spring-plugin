@@ -3,7 +3,7 @@
 This is a sample spring-boot project to demonstrate implementing strategy pattern using spring
 plugin.
 
-Blog post:
+Blog post: https://www.rajith.me/2021/10/strategy-pattern-with-spring-plugin.html
 
 ## Requirements
 
